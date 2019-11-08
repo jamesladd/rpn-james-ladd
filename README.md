@@ -2,7 +2,9 @@
 ## An RPN Calculator. 
 
 Developed from bottom up with the idea of writing the simplest thing that could possibly work, and adding test
-after. Typically I would have used Antlr for this to reduce code written to test and maintain.
+after.
+ Typically I would have used Antlr for this to reduce amount of code written that needs to be tested and
+maintained.
 
 To run tests:
 ```
